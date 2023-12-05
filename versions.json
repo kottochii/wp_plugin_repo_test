@@ -4,12 +4,12 @@
     {
         "1.0":
         {
-            "address":"./v1.0.zip",
+            "address":"v1.0.zip",
             "published":1701773259649
         },
         "1.1":
         {
-            "address":"./v1.1.zip",
+            "address":"v1.1.zip",
             "published":1701773263249
         }
     }
