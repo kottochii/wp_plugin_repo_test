@@ -1,16 +1,20 @@
 {
+    "name":"Updating echoer",
+    "author":"Kot",
     "latest":"1.1",
     "versions":
     {
         "1.0":
         {
             "address":"v1.0.zip",
-            "published":1701773259649
+            "published":1701773259649,
+            "description":"Echoes a message in the footer. But can update to the latest version from custom repo. The description is for the only non-latest version 1.0"
         },
         "1.1":
         {
             "address":"v1.1.zip",
-            "published":1701773263249
+            "published":1701773263249,
+            "description":"Echoes a message in the footer. But can update to the latest version from custom repo and the description is for the latest version to ever exist 1.1"
         }
     }
 }
